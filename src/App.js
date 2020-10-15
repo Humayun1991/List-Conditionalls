@@ -49,7 +49,7 @@ class App extends Component {
           </li>
           <li>
             Create another component (CharComponent) and style it as an inline
-            box (=> display: inline-block, padding: 16px, text-align: center,
+            box ( display: inline-block, padding: 16px, text-align: center,
             margin: 16px, border: 1px solid black).
           </li>
           <li>
